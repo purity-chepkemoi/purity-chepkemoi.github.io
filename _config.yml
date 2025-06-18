@@ -58,8 +58,8 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : Purity Chepkemoi
-  avatar : "/assets/images/bio-photo.jpg"
+  name   : "Purity Chepkemoi"
+  # avatar : "/assets/images/bio-photo.jpg"
   bio    : "Security analyst with solid computer science and cybersecurity background. Proficient in security tools and protocols, excels in problem-solving and complex challenge resolution. Eager to contribute to organizational objectives while pursuing professional growth."
   links:
    # - label: "Website"
