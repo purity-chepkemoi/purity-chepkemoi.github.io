@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Purity Chepkemoi"
+  name: "Purity Chepkemoi"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Security analyst with solid computer science and cybersecurity background."
   links:
