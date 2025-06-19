@@ -2,14 +2,14 @@ main:
   - title: "About"
     url: /about/
 
-  - title: "Skills and Projects"
-    url: /skills-projects/
+  - title: "Career Profile"
+    url: /profile/
 
-  - title: "Certifications"
-    url: /certifications/
-    
-  # - title: "Experience"
-  #   url: /experience/
+  - title: "Education & Certifications"
+    url: /education/
+
+  - title: "Projects & Lab Work"
+    url: /projects/
 
   # - title: "Client Testimonials"
   #   url: /testimonials/
