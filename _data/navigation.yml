@@ -8,8 +8,8 @@ main:
   - title: "Certifications"
     url: /certifications/
     
-  - title: "Experience"
-    url: /experience/
+  # - title: "Experience"
+  #   url: /experience/
 
   # - title: "Client Testimonials"
   #   url: /testimonials/
