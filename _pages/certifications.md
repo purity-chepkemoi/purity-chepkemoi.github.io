@@ -25,4 +25,8 @@ Hands-on program covering both defensive and offensive cybersecurity. Trained in
 - Participated in the **Tech4Good** innovation project  
 - Engaged in **global cultural exchange** with participants from diverse backgrounds
 
+  ##  Education
+
+**Kabarak University**  
+*BSc. Computer Science (2019–2023)*  
 ---
