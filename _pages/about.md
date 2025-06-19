@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 ---
 
-## 👩‍💻 About Me
+## About Me
 
 I’m Purity Chepkemoi, a cybersecurity professional with experience in security operations, penetration testing, threat analysis, and digital forensics.
 
@@ -13,7 +13,7 @@ With a background in Computer Science, I’m passionate about securing digital e
 
 ---
 
-### 💡 Interests
+###  Interests
 
 - Ethical Hacking & Pen Testing  
 - Cyber Threat Intelligence  
