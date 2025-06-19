@@ -16,7 +16,7 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5
 paginate_path: /page:num/
-timezone:
+timezone: UTC  # <-- fixed line
 
 include:
   - _pages
@@ -40,7 +40,7 @@ author:
       url: "https://github.com/purity-chepkemoi"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/purity-chepkemoi"
+      url: "https://www.linkedin.com/in/your-linkedin-username"
 
 footer:
   links:
