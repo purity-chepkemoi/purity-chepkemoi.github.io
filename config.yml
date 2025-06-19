@@ -1,5 +1,3 @@
-# Welcome to Jekyll!
-
 title: Purity Chepkemoi
 email:
 description: >-
@@ -16,7 +14,7 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5
 paginate_path: /page:num/
-timezone: UTC  # <-- fixed line
+timezone: UTC
 
 include:
   - _pages
@@ -31,9 +29,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Purity Chepkemoi"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Security analyst with solid computer science and cybersecurity background."
+  name: "Purity Chepkemoi"
+  avatar: "/assets/images/bio-photo.jpg"
+  bio: "Security analyst with solid computer science and cybersecurity background."
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -62,6 +60,7 @@ defaults:
       comments: true
       share: true
       related: true
+
   - scope:
       path: "_pages"
       type: pages
@@ -72,6 +71,7 @@ defaults:
 category_archive:
   type: liquid
   path: /categories/
+
 tag_archive:
   type: liquid
   path: /tags/
