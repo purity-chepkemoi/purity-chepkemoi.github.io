@@ -8,5 +8,11 @@ main:
   - title: "Certifications"
     url: /certifications/
 
+  - title: "Education"
+    url: /education/
+
+  - title: "Experience"
+    url: /experience/
+
   # - title: "Client Testimonials"
   #   url: /testimonials/
