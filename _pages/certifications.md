@@ -29,4 +29,3 @@ Hands-on program covering both defensive and offensive cybersecurity. Trained in
 
 **Kabarak University**  
 *BSc. Computer Science (2019–2023)*  
----
